@@ -9,8 +9,8 @@
 
 <channel>
 	<title>admin &#8211; RabbiTeam TestSite</title>
-	<atom:link href="/author/admin/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="/MyTestingRepo/author/admin/feed/" rel="self" type="application/rss+xml" />
+	<link>/MyTestingRepo</link>
 	<description></description>
 	<lastBuildDate>Sat, 02 Jun 2018 20:10:08 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,23 +19,23 @@
 	<generator>https://wordpress.org/?v=4.9.6</generator>
 	<item>
 		<title>First Test Post</title>
-		<link>/2018/06/02/first-test-post/</link>
-		<comments>/2018/06/02/first-test-post/#respond</comments>
+		<link>/MyTestingRepo/2018/06/02/first-test-post/</link>
+		<comments>/MyTestingRepo/2018/06/02/first-test-post/#respond</comments>
 		<pubDate>Sat, 02 Jun 2018 20:10:08 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 				<category><![CDATA[News]]></category>
 
-		<guid isPermaLink="false">/?p=18</guid>
+		<guid isPermaLink="false">/MyTestingRepo/?p=18</guid>
 		<description><![CDATA[So, I am testing this running Windows 10 64-bit, Google Chrome, XAMPP with WordPress addon and my awesome wireless keyboard.]]></description>
 				<content:encoded><![CDATA[<p>So, I am testing this running Windows 10 64-bit, Google Chrome, XAMPP with WordPress addon and my awesome wireless keyboard.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/2018/06/02/first-test-post/feed/</wfw:commentRss>
+			<wfw:commentRss>/MyTestingRepo/2018/06/02/first-test-post/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Hello world!</title>
-		<link>/2018/04/13/hello-world/</link>
-		<comments>/2018/04/13/hello-world/#comments</comments>
+		<link>/MyTestingRepo/2018/04/13/hello-world/</link>
+		<comments>/MyTestingRepo/2018/04/13/hello-world/#comments</comments>
 		<pubDate>Fri, 13 Apr 2018 20:50:13 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 				<category><![CDATA[Uncategorized]]></category>
@@ -44,7 +44,7 @@
 		<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 				<content:encoded><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
-			<wfw:commentRss>/2018/04/13/hello-world/feed/</wfw:commentRss>
+			<wfw:commentRss>/MyTestingRepo/2018/04/13/hello-world/feed/</wfw:commentRss>
 		<slash:comments>1</slash:comments>
 		</item>
 	</channel>

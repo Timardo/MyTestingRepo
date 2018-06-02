@@ -9,8 +9,8 @@
 
 <channel>
 	<title>News &#8211; RabbiTeam TestSite</title>
-	<atom:link href="/category/news/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="/MyTestingRepo/category/news/feed/" rel="self" type="application/rss+xml" />
+	<link>/MyTestingRepo</link>
 	<description></description>
 	<lastBuildDate>Sat, 02 Jun 2018 20:10:08 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,17 +19,17 @@
 	<generator>https://wordpress.org/?v=4.9.6</generator>
 	<item>
 		<title>First Test Post</title>
-		<link>/2018/06/02/first-test-post/</link>
-		<comments>/2018/06/02/first-test-post/#respond</comments>
+		<link>/MyTestingRepo/2018/06/02/first-test-post/</link>
+		<comments>/MyTestingRepo/2018/06/02/first-test-post/#respond</comments>
 		<pubDate>Sat, 02 Jun 2018 20:10:08 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 				<category><![CDATA[News]]></category>
 
-		<guid isPermaLink="false">/?p=18</guid>
+		<guid isPermaLink="false">/MyTestingRepo/?p=18</guid>
 		<description><![CDATA[So, I am testing this running Windows 10 64-bit, Google Chrome, XAMPP with WordPress addon and my awesome wireless keyboard.]]></description>
 				<content:encoded><![CDATA[<p>So, I am testing this running Windows 10 64-bit, Google Chrome, XAMPP with WordPress addon and my awesome wireless keyboard.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/2018/06/02/first-test-post/feed/</wfw:commentRss>
+			<wfw:commentRss>/MyTestingRepo/2018/06/02/first-test-post/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

@@ -7,8 +7,8 @@
 	>
 <channel>
 	<title>Comments on: First Test Post</title>
-	<atom:link href="/2018/06/02/first-test-post/feed/" rel="self" type="application/rss+xml" />
-	<link>/2018/06/02/first-test-post/</link>
+	<atom:link href="/MyTestingRepo/2018/06/02/first-test-post/feed/" rel="self" type="application/rss+xml" />
+	<link>/MyTestingRepo/2018/06/02/first-test-post/</link>
 	<description></description>
 	<lastBuildDate>Fri, 13 Apr 2018 20:50:13 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
