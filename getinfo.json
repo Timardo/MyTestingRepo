@@ -1,9 +1,7 @@
-{
-    "version": "1.0",
-    "cef_lib_version": "3.3239.1723",
-    "cef_sharp_version": "63.0.3",
-    "win_api_code_pack_version": "1.1.0",
-    "newtonsoft_json_version": "11.0.2",
-    "chrome_url": "https://timardo.github.io/MyTestingRepo/",
-    "special": "Special commands in sourcecode format for future updates, see https://www.codemag.com/article/0211081"
-}
+VERSION = 1.0
+CEF_LIB_VERSION = 3.3239.1723
+CEF_SHARP_VERSION = 63.0.3
+WIN_API_CODEPACK_VERSION = 1.1.0
+NEWTONSOFT_JSON_VERSION = 11.0.2
+CHROME_URL = https://timardo.github.io/MyTestingRepo/
+SPECIAL = Special commands in sourcecode format for future updates, see https://www.codemag.com/article/0211081 - not yet implemented
