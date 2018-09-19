@@ -4,5 +4,6 @@ CEF_SHARP_VERSION = 63.0.3
 WIN_API_CODEPACK_VERSION = 1.1.0
 NEWTONSOFT_JSON_VERSION = 11.0.2
 SHARP_COMPRESS_VERSION = 0.22.0
+NUGET_ROOT = https://az320820.vo.msecnd.net/packages/
 CHROME_URL = https://timardo.github.io/MyTestingRepo/
 SPECIAL = Special commands in sourcecode format for future updates, see https://www.codemag.com/article/0211081 - not yet implemented
